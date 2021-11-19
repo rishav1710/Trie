@@ -1,3 +1,6 @@
+//INSERT AND SEARCH
+
+
 class Trie{
     final static int ALPH_SIZE=26;
    
